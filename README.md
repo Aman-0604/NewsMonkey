@@ -1,3 +1,4 @@
+My api key is 1ec745b3296e4007bc2447b45ddc6ade for news api
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
